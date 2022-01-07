@@ -16,11 +16,11 @@ section{
     display: flex;
 }
 .half-width{
-    width: 50%;
+    width: 30%;
     padding-left: 5%;
 }
 .half-width img{
-    width: 50%;
+    width: 35%;
 }
 #stay-focused{
     margin-left: 50px;
@@ -35,4 +35,54 @@ section{
     color: white;
     font-weight: 400;
     border-radius: 5px;
+}
+#center{
+    text: font 16px;
+    text-align: center;
+}
+.half-width{
+    width: 75%;
+    margin-bottom: 5%;
+}
+.half-width img{
+    width: 50%;
+}
+.image{
+    width: 50px;
+}
+.flexiable{
+    display: flex;
+}
+.half-width-background{
+    width: 30%;
+    margin: 5px 5px;
+    padding-left: 10px;
+    border-radius: 10px;
+    background-color: rgb(203, 211, 218);
+}
+.half-width-background img{
+    width: 200px;
+}
+.half-width-background1{
+    width: 30%;
+    margin: 5px 5px;
+    padding-left: 20px;
+    border-radius: 10px;
+    background-color: rgb(85, 21, 85);
+}
+.half-width-background1 img{
+    width: 200px;
+}
+.half-width-background2{
+    width: 30%;
+    margin: 5px 5px;
+    padding-left: 20px;
+    border-radius: 10px;
+    background-color: rgb(203, 211, 218);
+}
+.half-width-background2 img{
+    width: 30%;
+}
+.part1{
+    width: 30%;
 }
