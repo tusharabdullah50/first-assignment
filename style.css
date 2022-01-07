@@ -68,7 +68,7 @@ section{
     margin: 5px 5px;
     padding-left: 20px;
     border-radius: 10px;
-    background-color: rgb(85, 21, 85);
+    background-color: rgb(231, 213, 231);
 }
 .half-width-background1 img{
     width: 200px;
@@ -85,4 +85,37 @@ section{
 }
 .part1{
     width: 30%;
+}
+#part2{
+    display: flex;
+    padding-top: 50px;
+    padding-left: 10%;
+}
+#pic{
+    padding-left: 20%;
+}
+#ban1{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 15%;
+    background-position-x: 7cm;
+}
+#part3{
+    display: flex;
+    padding-top: 50px;
+    padding-left: 20%;
+}
+#ban2{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 15%;
+    background-position: right 5cm;
+    background-position-x: 80%;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+    font-size: 10px;
 }
